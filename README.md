@@ -8,6 +8,9 @@ My hobbies are:
 - Crocheting
 - Origami
 
+> Mistakes were made.
+ > - Valeera Sanguinar
+
 <a href="https://twitter.com/MistakeXCode">
   <img align="left" alt="" width="22px" src="https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png" />
   </a>
