@@ -10,6 +10,7 @@ My hobbies are:
 - Gaming
 - Crocheting
 - Origami
+- Music
 
 
 
