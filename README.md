@@ -18,9 +18,7 @@ My hobbies are:
   
   <a href="https://github.com/Mistake91">
   <img align="left" alt="" width="22px" src="https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png" />
-  </a>
-
----
+  </a>/
 
 > Mistakes were made.
  > - Valeera Sanguinar
