@@ -13,9 +13,9 @@ My hobbies are:
   </a>
   
   <a href="https://www.instagram.com/mistakexcode/">
-  <img align="left" alt="" width="22px" src="https://www.flaticon.com/de/kostenloses-icon/instagram_174855?term=instagram&page=1&position=1&page=1&position=1&related_id=174855&origin=search" />
+  <img align="left" alt="" width="22px" src="https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png" />
   </a>
   
-  <a href="https://www.youtube.com/user/HighleifTV">
-  <img align="left" alt="" width="22px" src="https://www.iconfinder.com/icons/317714/video_youtube_icon" />
+  <a href="https://github.com/Mistake91">
+  <img align="left" alt="" width="22px" src="https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png" />
   </a>
