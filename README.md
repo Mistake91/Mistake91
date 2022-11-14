@@ -3,7 +3,6 @@
 
 I am 31 years old and have been a web developer student at **Neuefische** since November 14th, 2022
 
-![link](https://mograph.video/2HwFiEL)
 
 My hobbies are:
 - Gaming
