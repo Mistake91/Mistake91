@@ -8,4 +8,4 @@ My hobbies are:
 - Crocheting
 - Origami
 
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][https://www.instagram.com/mistakexcode/] [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][https://twitter.com/MistakeXCode] [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][https://github.com/Mistake91]
+![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))https://www.instagram.com/mistakexcode/ [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][https://twitter.com/MistakeXCode] [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][https://github.com/Mistake91]
