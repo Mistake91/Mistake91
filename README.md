@@ -8,4 +8,4 @@ My hobbies are:
 - Crocheting
 - Origami
 
-![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png ((https://www.instagram.com/mistakexcode/))
+<a href=”https://twitter.com/MistakeXCode"><img align=”left” src=”https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png" alt=”" width=”21px”/></a>
