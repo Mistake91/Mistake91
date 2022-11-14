@@ -17,5 +17,5 @@ My hobbies are:
   </a>
   
   <a href="https://www.youtube.com/user/HighleifTV">
-  <img align="left" alt="" width="22px" src="https://www.flaticon.com/de/kostenloses-icon/youtube_3128307?term=youtube&page=1&position=2&page=1&position=2&related_id=3128307&origin=tag" />
+  <img align="left" alt="" width="22px" src="https://www.iconfinder.com/icons/317714/video_youtube_icon" />
   </a>
