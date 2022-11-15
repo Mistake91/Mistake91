@@ -16,7 +16,6 @@ My hobbies are:
 
 <a href="https://twitter.com/MistakeXCode">
   <img align="left" alt="Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />
-  target="_blank"
   </a>
   
   <a href="https://www.instagram.com/mistakexcode/" target="_blank">
