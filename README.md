@@ -23,7 +23,7 @@ My hobbies are:
   </a>
   
   <a href="https://github.com/Mistake91">
-  <img align="left" alt="GitHub" width="22px" src="https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png" />
+  <img align="left" alt="GitHub" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-512.png" />
   </a>
   
   <a href="https://www.youtube.com/user/HighleifTV">
