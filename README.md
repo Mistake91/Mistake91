@@ -7,10 +7,10 @@ I am 31 years old and have been a web developer student at **Neuefische** since 
 
 
 My hobbies are:
-- Gaming
-- Crocheting
-- Origami
-- Music
+- Gaming :video_game:
+- Crocheting :yarn:
+- Origami :page_with_curl:
+- Music :microphone:
 
 
 
