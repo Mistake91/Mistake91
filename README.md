@@ -30,6 +30,11 @@ My hobbies are:
   <img align="left" alt="GitHub" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" />
   </a>
   
+  <a href="https://open.spotify.com/artist/33OUClTX4APoGPIbYMPfPa?si=N-V-at3KTW6-CUEMQDqKDA">
+  <img align="left" alt="GitHub" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-512.png" />
+  </a>
+  
+  
   
   &nbsp;
   
