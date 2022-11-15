@@ -15,18 +15,18 @@ My hobbies are:
 
 
 <a href="https://twitter.com/MistakeXCode">
-  <img align="left" alt="Twitter" width="22px" src="https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png" />
+  <img align="left" alt="Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />
   </a>
   
   <a href="https://www.instagram.com/mistakexcode/">
-  <img align="left" alt="Instagram" width="22px" src="https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
   </a>
   
   <a href="https://github.com/Mistake91">
   <img align="left" alt="GitHub" width="22px" src="https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png" />
   </a>
   
-  <a href="https://github.com/Mistake91">
+  <a href="https://www.youtube.com/user/HighleifTV">
   <img align="left" alt="GitHub" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" />
   </a>
   
