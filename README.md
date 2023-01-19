@@ -1,7 +1,7 @@
 
 # Hi, I'm Leif Gründler!
 
-<img src="https://scontent-ham3-1.cdninstagram.com/v/t51.2885-15/46124193_1344565489029434_4921980349459613455_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=Ngojd9XTt7kAX8x9mO6&tn=fpbWoxx-nu0x1hmA&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MTkzMTU1NTEzNTM4OTk5MTE1NQ%3D%3D.2-ccb7-5&oh=00_AfDwFsjOs6qfIhhRTr9NQtpZ2FLNPxfXFDMZOSa-StPSbw&oe=6396D122&_nc_sid=30a2ef" img align="right" alt="image" width="400"/>
+<img src="https://scontent-ham3-1.cdninstagram.com/v/t51.2885-15/46124193_1344565489029434_4921980349459613455_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=dD5YVAO8FDMAX-2Ce1U&tn=fpbWoxx-nu0x1hmA&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=MTkzMTU1NTEzNTM4OTk5MTE1NQ%3D%3D.2-ccb7-5&oh=00_AfBGJQxFNyPs2GQw4F0KdinEiV8Ls8K6uB7hyiBn8RCrig&oe=63CE3022&_nc_sid=1527a3" img align="right" alt="image" width="400"/>
 
 I am 31 years old and have been a web developer student at **Neuefische** since November 14th, 2022
 
