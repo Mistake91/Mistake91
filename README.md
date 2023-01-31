@@ -1,18 +1,15 @@
-
 # Hi, I'm Leif Gründler!
 
-<img src="https://scontent-ham3-1.cdninstagram.com/v/t51.2885-15/46124193_1344565489029434_4921980349459613455_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=dD5YVAO8FDMAX-2Ce1U&tn=fpbWoxx-nu0x1hmA&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=MTkzMTU1NTEzNTM4OTk5MTE1NQ%3D%3D.2-ccb7-5&oh=00_AfBGJQxFNyPs2GQw4F0KdinEiV8Ls8K6uB7hyiBn8RCrig&oe=63CE3022&_nc_sid=1527a3" img align="right" alt="image" width="400"/>
+<img src="./img/46124193_1344565489029434_4921980349459613455_n.jpg" img align="right" alt="image" width="400"/>
 
 I am 31 years old and have been a web developer student at **Neuefische** since November 14th, 2022
 
-
 My hobbies are:
+
 - Gaming :video_game:
 - Crocheting :yarn:
 - Origami :page_with_curl:
 - Music :microphone:
-
-
 
 <a href="https://twitter.com/MistakeXCode">
   <img align="left" alt="Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />
@@ -41,4 +38,5 @@ My hobbies are:
   &nbsp;
 
 > Mistakes were made.
- > - Valeera Sanguinar
+>
+> - Valeera Sanguinar
